@@ -30,7 +30,7 @@ You need a standard C++ compiler (like GCC) installed on your machine.
 Clone the repository and compile the code using `g++`:
 ```bash
 # Compile the code
-g++ main.cpp -o selection_sort
+g++ Task1.cpp -o selection_sort
 
 # Run the executable
 ./selection_sort
